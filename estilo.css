@@ -1,0 +1,119 @@
+body {background-color: rgb(9, 9, 37);}
+
+#cabecalho h1 {text-align: left;
+            color: rgb(255, 255, 255);
+            background-color: rgba(73, 72, 72, 0.911);
+            padding: 0.4cm;
+            margin: 0.2mm;
+            font-size: 1.2cm;
+           
+}
+
+#cabecalho img {margin-left: 1cm;
+                margin-bottom: -10pt;}
+
+#cabecalho ul {margin-left: 21cm;
+               margin-top: -40pt;
+
+               
+}
+
+#cabecalho li {display: inline;
+               font-size: 20px;
+               margin-left: 0.9cm; 
+               margin: 0.4cm;           
+}
+
+#cabecalho a {color: rgb(253, 253, 253);
+              text-decoration: none;
+}
+
+#header h1 {text-align: center;
+            margin-top: 50pt;
+            color: yellow;
+
+}
+
+.gallery {margin-left: 65pt;
+          margin-top: 1cm;
+          width: 330px;
+          height: 260px;
+          border: 6px outset;
+          box-sizing: border-box;
+          display: inline-block;
+          color: wheat;
+    
+}
+
+#rodape {color: yellow;
+         text-align: center;
+         font-size: .5cm;
+         margin-top: 5cm;
+
+}
+
+#rodape h3 {color: yellow;
+
+}
+
+#form {margin-top: 2cm;
+       margin-left: 5cm;
+
+
+}
+
+#ref_block{display: block;
+    margin-top: 3cm;
+    margin-left: 14cm;
+    color: rgb(255, 255, 255);
+
+}
+
+.ref {box-sizing: 10cm border-box;
+      border: solid white;
+      width: 9cm;
+      border-radius: 2cm;
+      margin-top: 1.3cm;
+      text-align: center;
+      padding-top: 3mm;
+      padding-bottom: 3mm;
+      
+}
+
+.ref a{color: yellow;
+       font-size: 0.5cm;
+    
+}
+
+#sobre {color: white;
+        text-align: center;
+        margin-top: 2cm;
+        font-size: 0.7cm;
+
+}
+
+.vertical-img {
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    border: 3px double #ddd;
+    border-radius: 4px;
+    padding: 0.3em;
+    width: 400px;
+    margin-top: 80px;
+    margin-bottom: 200px;
+    float: left;
+}
+
+#nome {font-size: 2em;
+      margin-top: 3cm;
+}
+
+p {color: white;
+   margin-top: 1em;
+   line-height: 0.8cm;
+   font-size: 1em;
+   font-family: Arial, Helvetica, sans-serif;}
+}
+
+#redessociais img {width: 20%;}
